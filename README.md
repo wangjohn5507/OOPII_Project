@@ -15,6 +15,8 @@ More about the algorithms you specify in the command line:<br>
 0 -> DFS<br>
 1 -> BFS<br>
 2 -> UCS<br>
+
+## Outcome
     
 **Initial page:**<br>
 ![Alt text](https://github.com/wangjohn5507/OOPII_Project/blob/main/Resource/initial_page.png?raw=true)
