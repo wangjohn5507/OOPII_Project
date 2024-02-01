@@ -24,7 +24,7 @@ More about the algorithms you specify in the command line:<br>
 **While clicking the soldier:**<br>
 ![Alt text](https://github.com/wangjohn5507/OOPII_Project/blob/main/Resource/click.png?raw=true)
 
-**While clicking somewhere else on the map, the soldier will move to the destination by the algorithm you specify in the command line:**<br>
+**While clicking somewhere else on the map, the soldier will move to the destination by the algorithm (DFS, BFS, UCS) you specify in the command line:**<br>
 ![Alt text](https://github.com/wangjohn5507/OOPII_Project/blob/main/Resource/move.png?raw=true)
 
     
